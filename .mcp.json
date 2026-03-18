@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "ane-surrogate": {
+      "command": "uv",
+      "args": [
+        "--directory", "/Users/jskromer/Projects/ane-surrogate",
+        "run", "mcp_server.py"
+      ]
+    }
+  }
+}
